@@ -53,6 +53,6 @@ css_c4timer_setdefusedsymbol <символ> – Установить css_c4timer
 css_c4timer_setloglevel <0-5> – Установить css_c4timer_log_level.
 ~~~
 
-ЭТОТ ПЛАГИН ФОРК ЭТОГО ПЛАГИНА:
+# ЭТОТ ПЛАГИН ФОРК ЭТОГО ПЛАГИНА:
 
 https://github.com/R0mz1k/css-C4-Timer
